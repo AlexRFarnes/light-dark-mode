@@ -20,7 +20,7 @@ Implementation of a toggle to switch between dark mode and light mode. Also, sto
 
 ![Screenshot](https://user-images.githubusercontent.com/57517804/111589999-88b6f000-8800-11eb-8949-900ea812176b.png)
 
-![Demo](https://eloquent-volhard-a326df.netlify.app/)
+[Demo](https://eloquent-volhard-a326df.netlify.app/)
 
 ## Built With
 
